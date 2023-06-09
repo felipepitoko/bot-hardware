@@ -1,0 +1,128 @@
+1686326698400	geckodriver	INFO	Listening on 127.0.0.1:49511
+1686326701496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofilebY82wO"
+1686326756620	geckodriver	INFO	Listening on 127.0.0.1:49530
+1686326759663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofilenx0KHP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686326761044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686326761056	Marionette	INFO	Listening on port 49542
+Read port: 49542
+WebDriver BiDi listening on ws://127.0.0.1:49531
+1686326761649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49531/devtools/browser/dba8c8e0-eca6-4731-a754-129f8ff4c0cc
+JavaScript error: https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-ti-1-click-oc-lhr-8gb-gddr6-256-bit-36isl6md1vqw line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+JavaScript error: https://www.pichau.com.br/_next/static/chunks/pages/_app-8129652f57e7c892.js, line 1: Error: Network error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1686326804754	Marionette	INFO	Stopped listening on port 49542
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+1686327426451	geckodriver	INFO	Listening on 127.0.0.1:49951
+1686327430015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofilev8a9PT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686327430806	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686327430816	Marionette	INFO	Listening on port 49959
+Read port: 49959
+WebDriver BiDi listening on ws://127.0.0.1:49952
+1686327431336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49952/devtools/browser/324b1bcd-d7fb-4474-87c8-c946d126957f
+JavaScript error: https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-ti-1-click-oc-lhr-8gb-gddr6-256-bit-36isl6md1vqw line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+1686327518771	geckodriver	INFO	Listening on 127.0.0.1:50126
+1686327521870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofileT4efgS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686327523774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686327523787	Marionette	INFO	Listening on port 50135
+Read port: 50135
+WebDriver BiDi listening on ws://127.0.0.1:50127
+1686327524656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50127/devtools/browser/0a9e29dd-ed15-44e4-9d9c-4402b66d0311
+JavaScript error: https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-ti-1-click-oc-lhr-8gb-gddr6-256-bit-36isl6md1vqw line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+1686327594062	geckodriver	INFO	Listening on 127.0.0.1:50254
+1686327597722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofile3yaCP0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686327599166	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686327599176	Marionette	INFO	Listening on port 50274
+Read port: 50274
+WebDriver BiDi listening on ws://127.0.0.1:50255
+1686327600059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50259/devtools/browser/03bdaaf6-0729-4fd3-b27c-a3bd0c6fb33e
+JavaScript error: https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-ti-1-click-oc-lhr-8gb-gddr6-256-bit-36isl6md1vqw line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686328284498	Marionette	INFO	Stopped listening on port 50272
+Dynamically enable window occlusion 1
+ port: 50574
+1686327719548	RemoteAgent	WARN	TLS certificate errors will be ignored fconsole.error: Reconsole.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resJavaScript error: https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-3060-ti-ventus-x2-oc-8gb-gddr6x-256-bit-912-v505-084 line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://www.pichau.com.br/_next/static/chunks/pages/_app-8129652f57e7c892.js, line 1: Error: Network error: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.pichau.com.br/?gclid=EAIaIQobChMIqJzI8862_wIV8BJ7Ch0Q7QIYEAAYASAAEgKiLfD_BwE line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+ror("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+1686327962732	geckodriver	INFO	Listening on 127.0.0.1:50957
+1686327965872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofilegQamwn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686327968307	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686327968318	Marionette	INFO	Listening on port 50985
+Read port: 50985
+WebDriver BiDi liRead port: 50981
+Read port: 50981
+Read port: 50981
+Read port: 50981
+Read port: 50981
+WebDriver BiDi listening on ws://127DevTools listening on ws://127.0.0.1:50959/devtools/browser/7b92d040-f62c-4e91-8fd7-87499fa065b0
+JavaScript error: https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-ti-1-click-oc-plus-8gb-gddr6x-256-bit-36ism6md2kcv line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+resource://gre/modules/Region.sys.mjs", 414))
+DevTools listening on ws://127.0.0.1:50962/devtools/browser/0225ebce-c4ae-44ab-8373-702bd0681cc6
+JavaScript error: https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-3060-ti-ventus-x2-oc-8gb-gddr6x-256-bit-912-v505-084 line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+1686328193060	geckodriver	INFO	Listening on 127.0.0.1:51384
+1686328196086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofileZzeqau"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686328196665	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686328196688	Marionette	INFO	Listening on port 51392
+Read port: 51392
+WebDriver BiDi listening on ws://127.0.0.1:51385
+1686328197063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51385/devtools/browser/6aaff60a-4b55-4989-972d-e8ff319c4ca9
+JavaScript error: https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-3060-ti-ventus-x2-oc-8gb-gddr6x-256-bit-912-v505-084 line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+1686328213408	Marionette	INFO	Stopped listening on port 51392
+Dynamically enable window occlusion 1
+1686328217758	geckodriver	INFO	Listening on 127.0.0.1:51518
+1686328220774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofile5d9Bs9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686328221358	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686328221376	Marionette	INFO	Listening on port 51526
+Read port: 51526
+WebDriver BiDi listening on ws://127.0.0.1:51519
+1686328221950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51519/devtools/browser/5661db11-b153-4950-ae82-9c35eab6a130
+JavaScript error: https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-ti-1-click-oc-plus-8gb-gddr6x-256-bit-36ism6md2kcv line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+1686328238627	Marionette	INFO	Stopped listening on port 51526
+Dynamically enable window occlusion 1
+[Parent 12664, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:593
+1686328243277	geckodriver	INFO	Listening on 127.0.0.1:51656
+1686328246307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felipe\\AppData\\Local\\Temp\\rust_mozprofilerhR0yv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686328246875	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686328246888	Marionette	INFO	Listening on port 51665
+Read port: 51665
+WebDriver BiDi listening on ws://127.0.0.1:51657
+1686328247344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51657/devtools/browser/5a7adc82-0876-4c9c-8da4-9b14b5b0d812
+JavaScript error: https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-ti-1-click-oc-plus-8gb-gddr6x-256-bit-36ism6md2kcv-nac line 580 > injectedScript, line 1: ReferenceError: Insider is not defined
+1686328262117	Marionette	INFO	Stopped listening on port 51665
+Dynamically enable window occlusion 1
